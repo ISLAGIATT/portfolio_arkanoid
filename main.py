@@ -36,7 +36,7 @@ score.score = 0
 # Screen settings
 screen.setup(width=800, height=600)
 screen.bgcolor("black")
-screen.tracer(0)
+screen.tracer(0, 1)
 
 screen.listen()
 screen.onkey(move_left, "Left")
@@ -51,7 +51,7 @@ paddle.setposition(0, -250)
 paddle.shape("square")
 paddle.color("white")
 paddle.shapesize(1, 4)
-paddle.speed(7)
+paddle.speed(10)
 
 while game_on:
     # time.sleep(.1)

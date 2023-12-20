@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e76cecb9-bc9a-4ddd-8f09-7b1772078ea1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/breakout.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bricks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/score.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/walls.py" afterDir="false" />
-    </list>
+    <list default="true" id="e76cecb9-bc9a-4ddd-8f09-7b1772078ea1" name="Changes" comment="initial commit&#10;i hate turtle&#10;need to add invis boundaries for paddle" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,10 +82,21 @@
       <option name="presentableId" value="Default" />
       <updated>1703008071718</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit&#10;i hate turtle&#10;need to add invis boundaries for paddle">
+      <option name="closed" value="true" />
+      <created>1703097470601</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703097470601</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="initial commit&#10;i hate turtle&#10;need to add invis boundaries for paddle" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit&#10;i hate turtle&#10;need to add invis boundaries for paddle" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
